@@ -1,3 +1,4 @@
 # Temperature-Conversion
 
-Convert temperatures to / from celcius and fahrenheit
+Convert temperatures to and from celcius and fahrenheit
+
